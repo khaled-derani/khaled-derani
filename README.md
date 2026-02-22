@@ -62,17 +62,13 @@ React Server Components • TanStack Query • Authentication (NextAuth/Clerk) �
 
 <hr/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled-derani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Khaled's GitHub stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-derani&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-derani&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-derani&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+
 
 <hr/>
 
@@ -82,7 +78,7 @@ I'm open to collaborations, frontend/full-stack opportunities, or just geeky tec
 
 - 💼 LinkedIn → [linkedin.com/in/khaled-derani-2285212a5](https://www.linkedin.com/in/khaled-derani-2285212a5/)  
 - 🌐 Portfolio → [portfolio-zeta-two-28.vercel.app](https://portfolio-zeta-two-28.vercel.app/)  
-- 📧 Email → [mail me](mailto:deranik96@gmail.com)
+- 📧 Email → deranik96@gmail.com
 
 Thanks for visiting — let's build something awesome! 🚀
 
