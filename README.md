@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>React & Next.js Frontend Developer • Passionate about building clean, performant, and user-focused web experiences • Always learning and pushing boundaries</em>
+  <em>React & Next.js Frontend Developer • ITE Student (Information Technology Engineering) • Passionate about building clean, performant, and user-focused web experiences</em>
 </p>
 
 <hr/>
